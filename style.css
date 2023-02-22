@@ -1,0 +1,237 @@
+body {
+	margin: 0;
+}
+
+.menu {
+	text-align: center;
+	padding: 1%;
+	position: fixed;
+	width: 100%;
+	background: white;
+}
+
+.optionmenu {
+	text-decoration: none;
+	color: black;
+	padding: 6%;
+}
+
+.optionmenu:hover {
+	color: #5CA1FF;
+}
+
+.header {
+	background: url(polygons.png);
+	width: 80%;
+	text-align: center;
+	margin: auto;
+	padding-top: 200px;
+	padding-bottom: 100px;
+	color: white;
+	background-size: 100%;
+}
+
+.buttonmenu {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-radius: 10px;
+	text-decoration: none;
+	background: white;
+	border: none;
+	font-size: 14px;
+}
+
+.company2 {
+	display: flex;
+	align-items: center;
+}
+
+.company {
+	width: 80%;
+	margin: auto;
+}
+.company h2 {
+	text-align: center;
+}
+
+.company2 img {
+	width: 40%;
+}
+
+.company2 p {
+	width: 60%;
+}
+
+.comunity h2 {
+	text-align: center;
+}
+
+.comunityp {
+	text-align: center;
+}
+
+.comunity2 {
+	display: flex;
+	justify-content: space-around;
+}
+
+.comunity {
+	padding: 20px;
+}
+
+.member {
+	width: 22%;
+	box-shadow: 0 0 10px silver;
+	padding: 15px;
+}
+
+.member img {
+	width: 100%;
+
+}
+
+.member button {
+	border: none;
+	background: #055b73;
+	margin: auto;
+	width: 100%;
+	color: white;
+	display: block;
+	border-radius: 10px;
+	padding: 15px;
+}
+
+.comunitypeople {
+	color: gray;
+}
+
+.buy{
+	text-align: center;
+	background: #626161;
+	padding: 40px;
+
+}
+
+.tarifs {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.buy h2 {
+	color: white;
+}
+
+.texttarif {
+	color: white;
+}
+
+.classtarif {
+	color: white;
+	background: black;
+	padding-top: 8%;
+	padding-bottom: 8%;
+	margin: 0;
+}
+
+.tarif {
+	background: white;
+	width: 30%;
+}
+
+.protarif {
+	background: #015b74;
+	padding: 12%;
+}
+
+.tarifitem {
+	border-bottom: solid 1px silver;
+	padding: 10px;
+}
+
+.tarif a {
+	background: black;
+	border-radius: 10px;
+	padding: 5px;
+	text-decoration: none;
+	color: white;
+	width: 20%;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+span {
+	font-weight: bold;
+}
+
+.bigtext {
+	font-size: 25px;
+}
+
+.contact h2 {
+	text-align: center;
+}
+
+.contact {
+	background: lightgrey;
+}
+
+.contacttext {
+	text-align: center;
+}
+
+.moscow {
+	background: url(address.png);
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	background-size: contain;
+}
+
+.number {
+	background: url(phone.png);
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	background-size: contain;
+}
+
+.email {
+	background: url(mail.png);
+	background-repeat: no-repeat;
+	padding-left: 25px;
+	background-size: contain;
+	display: inline-block;
+	margin: 0;
+}
+
+.contact {
+	padding: 5%;
+}
+
+input {
+	padding: 10px;
+	width: 100%;
+	border: none;
+}
+
+.buttoncontact {
+	display: block;
+	margin: auto;
+	padding: 7px;
+	width: 20%;
+	border-radius: 10px;
+	background: black;
+	color: white;
+}
+
+.prava {
+	background: black;
+	color: white;
+}
+
+.prava p {
+	margin: 0;
+	padding: 0;
+}
