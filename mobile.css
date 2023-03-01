@@ -1,0 +1,52 @@
+@media (max-width: 640px) {
+	.menu a {
+		display: block;
+		padding: 3%;
+	}
+
+	.menu {
+		position: static;
+		padding: 0;
+	}
+
+	.header {
+		padding-top: 80px;
+		padding-bottom: 50px;
+	}
+
+	.company2 {
+		display: block;
+	}
+
+	.company2 p {
+		width: 100%;
+	}
+
+	.company2 img {
+		width: 100%;
+	}
+
+	.comunity2 {
+		display: block;
+
+	}
+
+	.comunity {
+		padding: 0;
+	}
+
+	.member {
+		width: 80%;
+		margin: auto;
+	}
+
+	.tarifs {
+		display: block;
+	}
+
+	.tarif {
+		width: 90%;
+		margin: auto;
+	}
+}
+
